@@ -1,10 +1,12 @@
 class PrimalCutsController < ApplicationController
+  include ActionController::MimeResponds
+
   respond_to :json
 
   before_filter :find_animal,     :only   => [:index, :create]
   before_filter :find_primal_cut, :except => [:index, :create]
 
-  def list
+  def index
     @primal_cuts = @animal.primal_cuts.all
     respond_with @primal_cuts
   end

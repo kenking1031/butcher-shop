@@ -1,0 +1,86 @@
+= NeverSayDie
+
+* http://seattlerb.rubyforge.org
+* http://github.com/tenderlove/neversaydie
+
+== DESCRIPTION:
+
+
+NEVER SAY DIEはSEGV発生時の救助を果たす為に開発されました。どんな過酷な
+状況下でも、SEGVがあれば君の人生は救われたも同然。なんでSEGVが必要かって？
+ただのメモリだろ？ 俺が、高校生だった時、テストで１００点なんか進級するのに
+必要なかったんだから。なんで、作業を済ます為に君のメモリが１００％
+厳密でなくちゃあいけなんだよ。メモリのコラプションがあっちでもこっちでも
+発生しても痛くも痒くもないんだろう？
+
+当たって砕けてみろよ。畳の上でゴロゴロしてビールでも飲んで、NEVER SAY DIEを
+使ってごらんよ。ほうら、君の悩みはなんてどっかに行っちゃっただろ？
+
+
+== FEATURES/PROBLEMS:
+
+* 問題は間違いなくあるだろう
+* 移植性
+* 根本的な問題には修正不能
+* 時々機能停止する
+* 以上
+
+== SYNOPSIS:
+
+以下のテストで内容をお見せしよう:
+
+  assert_raises NeverSayDie do
+    NeverSayDie.segv
+  end
+
+以下はsegvのメソッドのソースコード:
+
+  static VALUE segv(VALUE self)
+  {
+    int *ptr = NULL;
+    *ptr = 1;
+  
+    return self;
+  }
+
+== REQUIREMENTS:
+
+* libsigsegv
+
+== INSTALL:
+
+第1章: libsigsegv をインストール。OS X を使用の場合、以下のコマンドを使用:
+
+  $ sudo port install libsigsegv
+
+他のプラットホームについては現在未確認
+
+第2章: gem をインストール：
+
+  $ sudo gem install neversaydie
+
+== LICENSE:
+
+(The MIT License)
+
+Copyright (c) 2009 Aaron Patterson
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+

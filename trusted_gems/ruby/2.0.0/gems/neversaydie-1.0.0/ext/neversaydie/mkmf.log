@@ -1,0 +1,116 @@
+find_header: checking for sigsegv.h in /opt/local/include,/opt/local/include,/usr/local/include,/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include,/usr/include... -------------------- yes
+
+"/usr/bin/clang -o conftest -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/x86_64-darwin12.3.0 -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/backward -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0 -I. -I/opt/local/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -I/Users/mpapis/.sm/pkg/active/include -fPIC -pipe -O3 -Wall -Wcast-qual -Wwrite-strings -Wconversion -Wmissing-noreturn -Winline conftest.c  -L. -L/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/lib -L/opt/local/lib -L.  -L/Users/mpapis/.sm/pkg/active/lib -L/usr/lib -fPIC -Bstatic -fstack-protector   -arch x86_64   -lruby-static  -lpthread -ldl -lobjc "
+In file included from conftest.c:1:
+In file included from /Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby.h:33:
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:12: warning: implicit conversion changes signedness: 'int' to 'unsigned long' [-Wsign-conversion]
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:43: note: instantiated from:
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                                             ~   ^~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:12: warning: implicit conversion changes signedness: 'int' to 'unsigned long' [-Wsign-conversion]
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:43: note: instantiated from:
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                                             ~   ^~~~~
+2 warnings generated.
+ld: warning: directory not found for option '-L/Users/mpapis/.sm/pkg/active/lib'
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+
+"/usr/bin/clang -E -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/x86_64-darwin12.3.0 -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/backward -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0 -I. -I/opt/local/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -I/Users/mpapis/.sm/pkg/active/include -fPIC -pipe -O3 -Wall -Wcast-qual -Wwrite-strings -Wconversion -Wmissing-noreturn -Winline  conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <sigsegv.h>
+/* end */
+
+--------------------
+
+find_library: checking for sigsegv_install_handler() in -lsigsegv... -------------------- yes
+
+"/usr/bin/clang -o conftest -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/x86_64-darwin12.3.0 -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/backward -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0 -I. -I/opt/local/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -I/Users/mpapis/.sm/pkg/active/include -fPIC -pipe -O3 -Wall -Wcast-qual -Wwrite-strings -Wconversion -Wmissing-noreturn -Winline conftest.c  -L. -L/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/lib -L/opt/local/lib -L.  -L/Users/mpapis/.sm/pkg/active/lib -L/usr/lib -fPIC -Bstatic -fstack-protector   -arch x86_64   -lruby-static -lsigsegv  -lpthread -ldl -lobjc "
+In file included from conftest.c:1:
+In file included from /Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby.h:33:
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:12: warning: implicit conversion changes signedness: 'int' to 'unsigned long' [-Wsign-conversion]
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:43: note: instantiated from:
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                                             ~   ^~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:12: warning: implicit conversion changes signedness: 'int' to 'unsigned long' [-Wsign-conversion]
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:43: note: instantiated from:
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                                             ~   ^~~~~
+conftest.c:5:57: error: use of undeclared identifier 'sigsegv_install_handler'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))sigsegv_install_handler; return 0; }
+                                                        ^
+2 warnings and 1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int t(void) { void ((*volatile p)()); p = (void ((*)()))sigsegv_install_handler; return 0; }
+ 6: int main(int argc, char **argv)
+ 7: {
+ 8:   if (argc > 1000000) {
+ 9:     printf("%p", &t);
+10:   }
+11: 
+12:   return 0;
+13: }
+/* end */
+
+"/usr/bin/clang -o conftest -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/x86_64-darwin12.3.0 -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/backward -I/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0 -I. -I/opt/local/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -I/Users/mpapis/.sm/pkg/active/include -fPIC -pipe -O3 -Wall -Wcast-qual -Wwrite-strings -Wconversion -Wmissing-noreturn -Winline conftest.c  -L. -L/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/lib -L/opt/local/lib -L.  -L/Users/mpapis/.sm/pkg/active/lib -L/usr/lib -fPIC -Bstatic -fstack-protector   -arch x86_64   -lruby-static -lsigsegv  -lpthread -ldl -lobjc "
+In file included from conftest.c:1:
+In file included from /Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby.h:33:
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:12: warning: implicit conversion changes signedness: 'int' to 'unsigned long' [-Wsign-conversion]
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:43: note: instantiated from:
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                                             ~   ^~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:12: warning: implicit conversion changes signedness: 'int' to 'unsigned long' [-Wsign-conversion]
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/USCal-XJiang/.rvm/rubies/ruby-2.0.0-p247/include/ruby-2.0.0/ruby/ruby.h:777:43: note: instantiated from:
+            t.v = RUBY_BIT_ROTR((2 - b63) | (v & ~0x03), 3);
+                                             ~   ^~~~~
+conftest.c:5:15: warning: implicit declaration of function 'sigsegv_install_handler' is invalid in C99 [-Wimplicit-function-declaration]
+int t(void) { sigsegv_install_handler(); return 0; }
+              ^
+3 warnings generated.
+ld: warning: directory not found for option '-L/Users/mpapis/.sm/pkg/active/lib'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int t(void) { sigsegv_install_handler(); return 0; }
+ 6: int main(int argc, char **argv)
+ 7: {
+ 8:   if (argc > 1000000) {
+ 9:     printf("%p", &t);
+10:   }
+11: 
+12:   return 0;
+13: }
+/* end */
+
+--------------------
+

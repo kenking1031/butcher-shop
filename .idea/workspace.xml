@@ -6,6 +6,150 @@
     <ignored path=".idea/workspace.xml" />
     <file path="$USER_HOME$/.profile" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381805880504" ignored="false" />
     <file path="$USER_HOME$/.bash_profile" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381806102678" ignored="false" />
+    <file path="/Gemfile" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382217276119" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/lib/episode.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757331986" ignored="false" />
+    <file path="/episode.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757144100" ignored="false" />
+    <file path="/featured_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381990541339" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/featured_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381990543197" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/config/locales/en_US.yml" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382055066886" ignored="false" />
+    <file path="/en_US.yml" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382050769263" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/models/channel.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381859513670" ignored="false" />
+    <file path="/channel.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381859178306" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/models/channel_response_node.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381862068512" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/models/category_response_node.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381860917013" ignored="false" />
+    <file path="/category_response_node.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381859770000" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/popular_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381860829256" ignored="false" />
+    <file path="/popular_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381860823864" ignored="false" />
+    <file path="/channel_response_node.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381861998864" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/user/subscriptions_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381862746600" ignored="false" />
+    <file path="/subscriptions_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381862739474" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/models/user.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381863089021" ignored="false" />
+    <file path="/a.dummy" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382733673864" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/content-list.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382651776876" ignored="false" />
+    <file path="/content-list.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382651698025" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/row.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382735187506" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/player.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382459577453" ignored="false" />
+    <file path="/player.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382152841043" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/user/upnext_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/upnext_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381968676332" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/store_list_row_upnext.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381952605858" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/content_list_row_cell.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381991438507" ignored="false" />
+    <file path="/content_list_row_cell.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381991438507" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/content_list_row_cell_group.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381952269079" ignored="false" />
+    <file path="/store_list_row_upnext.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381950323628" ignored="false" />
+    <file path="/content_list_row_cell_group.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381950646257" ignored="false" />
+    <file path="/configuration.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381984797284" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/configuration/configuration.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381984801704" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/content_list_row_cell_group.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381952624881" ignored="false" />
+    <file path="/content_list_row_cell_group.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381952127386" ignored="false" />
+    <file path="/Dummy.txt" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382737988276" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/application_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/icons.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381972087813" ignored="false" />
+    <file path="/row.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382735112246" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/channels_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381980084788" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/shows_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381980183087" ignored="false" />
+    <file path="/application_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381983060330" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/clear.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381991371731" ignored="false" />
+    <file path="/clear.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381991370266" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/models/order.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382049029321" ignored="false" />
+    <file path="/order.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382049029955" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/content.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382055023594" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/templates/_subscribe_button.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382054401051" ignored="false" />
+    <file path="/_subscribe_button.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382051630029" ignored="false" />
+    <file path="/content.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382054781174" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/templates/_subscribe_bundle_button.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382054970361" ignored="false" />
+    <file path="/_subscribe_bundle_button.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382054970361" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/genre_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382160719795" ignored="false" />
+    <file path="/genre_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382076880351" ignored="false" />
+    <file path="/Ruby Console" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382758001671" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/config/routes.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382459577453" ignored="false" />
+    <file path="/routes.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382243873966" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/templates/videos-show.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382459577453" ignored="false" />
+    <file path="/videos-show.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382126858096" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/log/development.log" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382153033343" ignored="false" />
+    <file path="/primal_cuts_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382221402413" ignored="false" />
+    <file path="/user.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382237083989" ignored="false" />
+    <file path="/favorite.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382243508402" ignored="false" />
+    <file path="/cut.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382243527680" ignored="false" />
+    <file path="/favorite_serializer.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382244141477" ignored="false" />
+    <file path="/create_animal.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382244578561" ignored="false" />
+    <file path="/seeds.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382912112046" ignored="false" />
+    <file path="/primal_cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382295308459" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/home.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/home.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382476991293" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/bundle/bundle_content_list_row_cell.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477571247" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/bundle/bundle_content_list_gre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477563637" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/subscription_genre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477554386" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/bundle_search.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477546982" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/collections/Subscription_genres.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477525967" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/store_search.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/store_search.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382487429167" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/store_list.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/store_list.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382505189137" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/store_list_row_genres.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382466592115" ignored="false" />
+    <file path="/store_list_row_genres.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382467238387" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/store_list_row_genre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477255267" ignored="false" />
+    <file path="/store_list_row_genre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477255267" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/genre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382734934122" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/views/layouts/application.html.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382632366038" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/store.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382735196620" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/genres_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382651334606" ignored="false" />
+    <file path="/genres_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382642245957" ignored="false" />
+    <file path="/store.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382487010568" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/templates/subscriptions-index.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477820754" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/templates/store-index.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477912165" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/templates/home-index.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382477991192" ignored="false" />
+    <file path="/genre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382488458837" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382488329250" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre_list.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382661252058" ignored="false" />
+    <file path="/genre_list.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382660965584" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre_list_row.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/genre_list_row.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382540688283" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/content_list_row.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382563814961" ignored="false" />
+    <file path="/content_list_row.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382550553661" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre_list_header.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382506524919" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre_list_title.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/genre_list_title.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382506699769" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/genre_title.handlebars.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382506976724" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/genre_title.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382566801626" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/content_list_row.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/content_list_row.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382561632701" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre_title.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/genre_title.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382555498326" ignored="false" />
+    <file path="/genre_title.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382555613678" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/content_list_store.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="/content_list_store.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382571450178" ignored="false" />
+    <file path="/store_list_row_show.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382564824629" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/store_list_row_show.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382651334606" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/genre_content_list.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382565095103" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/genre_content_list.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382566118159" ignored="false" />
+    <file path="/genre_content_list.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382565644314" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/content_list.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382655654754" ignored="false" />
+    <file path="/content_list.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382655647243" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/templates/common/genre_list_header.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382734102196" ignored="false" />
+    <file path="/genre_list_header.handlebars" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382663425143" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/common.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382652611348" ignored="false" />
+    <file path="/common.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382652477768" ignored="false" />
+    <file path="/application.html.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382632364340" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/header.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/videos_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/video.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/player.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/views/shared/_nav_background.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382635500251" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/views/shared/top_background.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382632322465" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/views/shared/_top_background.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382635560321" ignored="false" />
+    <file path="/store_list_row_popular.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382638254817" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/store_list_row_popular.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382651334606" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/genre_list_container.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382653967227" ignored="false" />
+    <file path="/genre_list_container.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382653923922" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/xidio.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382661379369" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/views/common/content_list_header.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382725090754" ignored="false" />
+    <file path="/content_list_header.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382725068654" ignored="false" />
+    <file path="$USER_HOME$/carecloud/AppointmentServices/app/book.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757258632" ignored="false" />
+    <file path="/book.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757952204" ignored="false" />
+    <file path="$USER_HOME$/carecloud/AppointmentServices/lib/tool.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382745985733" ignored="false" />
+    <file path="/tool.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382745917956" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/lib/book.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757953515" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +169,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="favorite.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/favorite.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="38" selection-start="90" selection-end="90" vertical-scroll-proportion="0.17142858">
+            <state line="3" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animals_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/animals_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animal.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/animal.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cut.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/cut.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="22" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="primal_cut.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/primal_cut.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="primal_cut_serializer.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/serializers/primal_cut_serializer.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favorite_serializer.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/serializers/favorite_serializer.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="3" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20131019225829_create_favorites.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20131019225829_create_favorites.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="157" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_animal.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/create_animal.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="3" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="50" selection-start="785" selection-end="785" vertical-scroll-proportion="0.6397059">
               <folding />
             </state>
           </provider>
@@ -45,6 +270,21 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/animals_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/cuts_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/primal_cuts_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/models/cut.rb" />
+        <option value="$PROJECT_DIR$/app/models/favorite.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/serializers/favorite_serializer.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/create_animal.rb" />
+        <option value="$PROJECT_DIR$/app/models/primal_cuts.rb" />
+        <option value="$PROJECT_DIR$/app/models/primal_cut.rb" />
+        <option value="$PROJECT_DIR$/app/models/animal.rb" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -56,8 +296,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -85,13 +326,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="butcher-shop-medium-rare" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -101,6 +345,142 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trusted_gems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,17 +573,19 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="FullScreen" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/vimond/GoldenGate" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Rails.Development: butcher-shop-medium-rare">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -256,6 +638,136 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: butcher-shop-medium-rare" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="butcher-shop-medium-rare" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: butcher-shop-medium-rare" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="butcher-shop-medium-rare" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="true" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="RVM: ruby-2.0.0-p247 [global]" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="butcher-shop-medium-rare" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -306,68 +818,31 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Production: butcher-shop-medium-rare" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="butcher-shop-medium-rare" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Development: butcher-shop-medium-rare" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="butcher-shop-medium-rare" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <RunnerSettings RunnerId="RubyDebugRunner" />
-      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
-      <method />
-    </configuration>
     <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: butcher-shop-medium-rare" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: butcher-shop-medium-rare" />
+      <item index="0" class="java.lang.String" itemvalue="Rails.Production: butcher-shop-medium-rare" />
+      <item index="1" class="java.lang.String" itemvalue="Rails.Development: butcher-shop-medium-rare" />
+      <item index="2" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="3" class="java.lang.String" itemvalue="Rake.spec" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9b9b4914-985e-4e50-9be5-7983bc556b6e" name="Default" comment="" />
@@ -377,16 +852,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.67030305" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.276901" sideWeight="0.8702186" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12962963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -395,6 +869,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -461,14 +936,104 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/spec/controllers/animals_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.72901326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="42" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/animal_serializer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/app/serializers/cut_serializer.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="90" selection-end="90" vertical-scroll-proportion="0.17142858">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="75" selection-start="48" selection-end="122" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/favorite.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/animals_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/primal_cut.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/primal_cut_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/cut.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/favorite_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131019225829_create_favorites.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/create_animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="50" selection-start="785" selection-end="785" vertical-scroll-proportion="0.6397059">
           <folding />
         </state>
       </provider>

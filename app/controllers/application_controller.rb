@@ -1,5 +1,4 @@
-class ButcherShopController < ActionController::API
-  include ActionController::MimeResponds
+class ApplicationController < ActionController::API
 
   def respond_with
     raise ArgumentError, 'what the heck are you doing?'

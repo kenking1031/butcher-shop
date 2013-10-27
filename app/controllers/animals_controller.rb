@@ -1,4 +1,6 @@
 class AnimalsController < ApplicationController
+  include ActionController::MimeResponds
+
   respond_to :json
 
   def index

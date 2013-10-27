@@ -1,5 +1,7 @@
 class CutsController < ApplicationController
 
+  include ActionController::MimeResponds
+
   before_filter :find_animal_or_primal_cut, :only   => [:index, :create]
   before_filter :find_cut,                  :except => [:index, :create]
 
