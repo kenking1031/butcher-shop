@@ -40,7 +40,7 @@ describe AnimalsController do
       context "with an unknown animal" do
         before(:each) { get :show, :id => 9999, :format => :json }
 
-        its("body.strip") { should be_empty }
+        its("#{:body}.strip") { should be_empty }
         its(:status)      { should be 404 }
       end
     end
@@ -48,7 +48,7 @@ describe AnimalsController do
     describe "PUT 'update'" do
       before(:each) { put :update, animal_attrs }
 
-      its("body.strip") { should be_empty }
+      its("#{:body}.strip") { should be_empty }
       its(:status)      { should be 204 }
 
       it "updates the animal" do
@@ -66,7 +66,7 @@ describe AnimalsController do
     describe "DELETE 'destroy'" do
       before(:each) { delete :destroy, :id => animal.id, :format => :json }
 
-      its("body.strip") { should be_empty }
+      its("#{:body}.strip") { should be_empty }
       its(:status)      { should be 204 }
     end
   end

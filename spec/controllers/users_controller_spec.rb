@@ -40,7 +40,7 @@ describe UsersController do
       context "with an unknown user" do
         before(:each) { get :show, :id => 9999, :format => :json }
 
-        its("body.strip") { should be_empty }
+        its("#{:body}.strip") { should be_empty }
         its(:status)      { should be 404 }
       end
     end
@@ -48,7 +48,7 @@ describe UsersController do
     describe "PUT 'update'" do
       before(:each) { put :update, user_attrs }
 
-      its("body.strip") { should be_empty }
+      its("#{:body}.strip") { should be_empty }
       its(:status)      { should be 204 }
 
       it "updates the user" do
@@ -66,7 +66,7 @@ describe UsersController do
     describe "DELETE 'destroy'" do
       before(:each) { delete :destroy, :id => user.id, :format => :json }
 
-      its("body.strip") { should be_empty }
+      its("#{:body}.strip") { should be_empty }
       its(:status)      { should be 204 }
     end
   end

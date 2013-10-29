@@ -6,4 +6,6 @@ class Cut < ActiveRecord::Base
   belongs_to :favorite
 
   validates :name, :presence => true
+
+  attr_accessible :name
 end

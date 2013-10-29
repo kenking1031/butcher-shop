@@ -17,7 +17,7 @@ class UsersController < ApplicationController
   end
 
   def show
-    respond_with user
+    respond_with @user
   end
 
   def update
@@ -27,7 +27,7 @@ class UsersController < ApplicationController
 
   def destroy
     @user.destroy
-    head :your_mom
+    head 204
   end
 
   protected
@@ -38,6 +38,6 @@ class UsersController < ApplicationController
     end
 
     def user_params
-      params.require(:user).permit(:first_name, :last_name, :email)
+      params.require(:user).permit!
     end
 end

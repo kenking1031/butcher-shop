@@ -7,7 +7,7 @@
     <file path="$USER_HOME$/.profile" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381805880504" ignored="false" />
     <file path="$USER_HOME$/.bash_profile" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381806102678" ignored="false" />
     <file path="/Gemfile" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382217276119" ignored="false" />
-    <file path="$USER_HOME$/vimond/GoldenGate/lib/episode.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757331986" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/lib/episode.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382978882633" ignored="false" />
     <file path="/episode.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757144100" ignored="false" />
     <file path="/featured_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381990541339" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/featured_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1381990543197" ignored="false" />
@@ -63,17 +63,17 @@
     <file path="/genre_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382076880351" ignored="false" />
     <file path="/Ruby Console" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382758001671" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/config/routes.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382459577453" ignored="false" />
-    <file path="/routes.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382243873966" ignored="false" />
+    <file path="/routes.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383060121497" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/templates/videos-show.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382459577453" ignored="false" />
     <file path="/videos-show.liquid" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382126858096" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/log/development.log" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382153033343" ignored="false" />
     <file path="/primal_cuts_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382221402413" ignored="false" />
-    <file path="/user.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382237083989" ignored="false" />
-    <file path="/favorite.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382243508402" ignored="false" />
+    <file path="/user.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382986289636" ignored="false" />
+    <file path="/favorite.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072104249" ignored="false" />
     <file path="/cut.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382243527680" ignored="false" />
-    <file path="/favorite_serializer.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382244141477" ignored="false" />
-    <file path="/create_animal.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382244578561" ignored="false" />
-    <file path="/seeds.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382912112046" ignored="false" />
+    <file path="/favorite_serializer.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383071099513" ignored="false" />
+    <file path="/create_animal.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382920265195" ignored="false" />
+    <file path="/seeds.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383010075976" ignored="false" />
     <file path="/primal_cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382295308459" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/assets/javascripts/backbone/models/home.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
     <file path="/home.js" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382476991293" ignored="false" />
@@ -132,7 +132,7 @@
     <file path="/common.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382652477768" ignored="false" />
     <file path="/application.html.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382632364340" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/header.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
-    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/videos_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/videos_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382978882633" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/video.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/assets/stylesheets/player.scss" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382593616987" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/app/views/shared/_nav_background.erb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382635500251" ignored="false" />
@@ -150,6 +150,29 @@
     <file path="$USER_HOME$/carecloud/AppointmentServices/lib/tool.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382745985733" ignored="false" />
     <file path="/tool.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382745917956" ignored="false" />
     <file path="$USER_HOME$/vimond/GoldenGate/lib/book.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382757953515" ignored="false" />
+    <file path="/create_cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382925515423" ignored="false" />
+    <file path="/create_primal_cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382925527994" ignored="false" />
+    <file path="/create_animals.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382925538079" ignored="false" />
+    <file path="/20131028021023_fix_column_name.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382926295873" ignored="false" />
+    <file path="/20131028022005_create_users.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382943001227" ignored="false" />
+    <file path="/20131028020219_create_favorites.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072405549" ignored="false" />
+    <file path="/20131028020252_create_animals.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382943095634" ignored="false" />
+    <file path="/20131028020536_create_cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072366124" ignored="false" />
+    <file path="/20131028020718_create_primal_cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382943123076" ignored="false" />
+    <file path="$USER_HOME$/vimond/GoldenGate/app/controllers/api/playback_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382978882633" ignored="false" />
+    <file path="/application.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1382985462078" ignored="false" />
+    <file path="/animal.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383004628942" ignored="false" />
+    <file path="/primal_cut.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383004049041" ignored="false" />
+    <file path="/animals_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383029654925" ignored="false" />
+    <file path="/animals_controller_spec.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383028761217" ignored="false" />
+    <file path="/user_spec.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383057508533" ignored="false" />
+    <file path="/favorites_controller.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383058684328" ignored="false" />
+    <file path="/favorite_spec.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072604350" ignored="false" />
+    <file path="/favorites.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072278413" ignored="false" />
+    <file path="/cuts.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072796993" ignored="false" />
+    <file path="/cut_spec.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383072436236" ignored="false" />
+    <file path="/20131029190221_add_favorite_id_to_cut.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383079413984" ignored="false" />
+    <file path="/20131029190324_add_user_id_to_favorite.rb" changelist="9b9b4914-985e-4e50-9be5-7983bc556b6e" time="1383079869945" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,17 +192,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="favorite.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="favorite.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/favorite.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+            <state line="9" column="38" selection-start="187" selection-end="187" vertical-scroll-proportion="0.21159874">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animals_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/animals_controller.rb">
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="46" selection-start="134" selection-end="175" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favorite_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/models/favorite_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_cleaner.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/support/database_cleaner.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -187,35 +228,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animal.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/animal.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cut.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/cut.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="primal_cut.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/primal_cut.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="primal_cut_serializer.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/serializers/primal_cut_serializer.rb">
+      <file leaf-file-name="20131029205006_add_name_to_favorite.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20131029205006_add_name_to_favorite.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -223,37 +237,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favorite_serializer.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/serializers/favorite_serializer.rb">
+      <file leaf-file-name="20131029190324_add_user_id_to_favorite.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20131029190324_add_user_id_to_favorite.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="3" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20131019225829_create_favorites.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131019225829_create_favorites.rb">
+      <file leaf-file-name="20131029190221_add_favorite_id_to_cut.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20131029190221_add_favorite_id_to_cut.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="6" column="38" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_animal.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/create_animal.rb">
+      <file leaf-file-name="favorites_controller_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/controllers/favorites_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <file leaf-file-name="favorites.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/factories/favorites.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="50" selection-start="785" selection-end="785" vertical-scroll-proportion="0.6397059">
+            <state line="8" column="23" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cuts.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/factories/cuts.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="19" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -269,22 +292,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/animals_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/cuts_controller.rb" />
+        <option value="$PROJECT_DIR$/spec/models/animal_spec.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/favorites_controller.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131028022005_create_users.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/users.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/primal_cuts_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/models/cut.rb" />
-        <option value="$PROJECT_DIR$/app/models/favorite.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/serializers/favorite_serializer.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/create_animal.rb" />
-        <option value="$PROJECT_DIR$/app/models/primal_cuts.rb" />
-        <option value="$PROJECT_DIR$/app/models/primal_cut.rb" />
-        <option value="$PROJECT_DIR$/app/models/animal.rb" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/favorites.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131028020536_create_cuts.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131028020219_create_favorites.rb" />
+        <option value="$PROJECT_DIR$/spec/models/cut_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/factories/cuts.rb" />
+        <option value="$PROJECT_DIR$/spec/models/favorite_spec.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131029190221_add_favorite_id_to_cut.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131029190324_add_user_id_to_favorite.rb" />
+        <option value="$PROJECT_DIR$/app/models/favorite.rb" />
       </list>
     </option>
   </component>
@@ -296,9 +319,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="828" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -508,6 +530,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="butcher-shop-medium-rare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -583,7 +623,7 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$USER_HOME$/vimond/GoldenGate" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -852,15 +892,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="828" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.276901" sideWeight="0.8702186" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12962963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.276901" sideWeight="0.8630303" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1369697" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -936,104 +976,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spec/controllers/animals_controller_spec.rb">
+    <entry file="file://$PROJECT_DIR$/spec/factories/users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.72901326" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/animal_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/cut_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="65" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/primal_cut_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131028020536_create_cuts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/favorites_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131029205006_add_name_to_favorite.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131029190324_add_user_id_to_favorite.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131029190221_add_favorite_id_to_cut.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="38" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/favorites.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/cuts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/database_cleaner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/favorite_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="36" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+        <state line="5" column="46" selection-start="134" selection-end="175" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/animal_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/cut_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="75" selection-start="48" selection-end="122" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/favorite.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/animals_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/primal_cut.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/animal.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/primal_cut_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/cut.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/favorite_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131019225829_create_favorites.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/create_animal.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="50" selection-start="785" selection-end="785" vertical-scroll-proportion="0.6397059">
+        <state line="9" column="38" selection-start="187" selection-end="187" vertical-scroll-proportion="0.21159874">
           <folding />
         </state>
       </provider>
