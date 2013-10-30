@@ -12,11 +12,12 @@ ButcherShop::Application.routes.draw do
   resources :cuts, :only => [:show, :update, :destroy]
 
   resources :users, :except=>[:new, :edit] do
-    resources :favorites, :only=>[:index,:create] do
-      resources :cuts
+    controller :favorites do
+      get 'favorites', :action=>:index
+      post 'favorites', :action=>:create
     end
   end
 
-
+  resources :favorites, :only=>[:show,:update, :destroy]
 
 end

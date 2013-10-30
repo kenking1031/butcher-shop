@@ -1,3 +1,6 @@
 class FavoriteSerializer < ActiveModel::Serializer
-  attributes :id, :cut_id,:user_id,:cut_name, :created_at, :updated_at
+  attributes :id,:name, :created_at, :updated_at
+
+  has_one :cut
+
 end

@@ -7,17 +7,17 @@ class FavoritesController < ApplicationController
   before_filter :find_favorite, :except => [:index, :create]
 
   def index
-    @favorites = Favorite.all
+    @favorites = Favorite.where(user_id: params[:user_id])
     respond_with @favorites
   end
 
   def create
-    @favorite = Favorite.create Favorite_params
+    @favorite = Favorite.create favorite_params
     respond_with @favorite
   end
 
   def show
-    respond_with favorite
+    respond_with @favorite
   end
 
   def update
@@ -37,7 +37,8 @@ class FavoritesController < ApplicationController
     head 404
   end
 
-  def user_params
-    params.require(:favorite).permit(:id)
+  def favorite_params
+    params.require(:favorite).permit!
   end
+
 end
